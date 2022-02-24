@@ -3,4 +3,10 @@ body {
   margin: 0;
   
 }
-
+.form-inline{
+display: flex;
+}
+.navbar-brand h2 {
+  padding-left: 1em;
+  color: blue;
+}

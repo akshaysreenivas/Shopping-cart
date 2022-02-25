@@ -1,2 +1,2 @@
 # shopping-cart
- project using express with hbs template engine
+ project using bootstrap , express hbs
